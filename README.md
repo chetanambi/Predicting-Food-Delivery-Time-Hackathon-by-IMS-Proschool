@@ -31,6 +31,7 @@ IMS, since 1977, has worked towards building a long term successful career for i
 The final score will be calculated based on accuracy or the number of true predictions using the confusion matrix.
 
 # Leaderboard
+Rank 6
 ![image](https://user-images.githubusercontent.com/37707687/70585595-aef7e400-1bea-11ea-9fb6-5d4ea84b17c8.png)
 
 # Notes
