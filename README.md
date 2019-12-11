@@ -1,4 +1,4 @@
-# chetanambi-Predicting-Food-Delivery-Time-Hackathon-by-IMS-Proschool
+# Predicting-Food-Delivery-Time-Hackathon-by-IMS-Proschool
 ![image](https://user-images.githubusercontent.com/37707687/70584771-28da9e00-1be8-11ea-975b-496f4dba3e5a.png)
 
 The entire world is transforming digitally and our relationship with technology has grown exponentially over the last few years. We have grown closer to technology, and it has made our life a lot easier by saving time and effort. Today everything is accessible with smartphones — from groceries to cooked food and from medicines to doctors. In this hackathon, we provide you with data that is a by-product as well as a thriving proof of this growing relationship. 
