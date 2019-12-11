@@ -34,11 +34,11 @@ The final score will be calculated based on accuracy or the number of true predi
 ![image](https://user-images.githubusercontent.com/37707687/70585595-aef7e400-1bea-11ea-9fb6-5d4ea84b17c8.png)
 
 # Notes
-| Solutions                                           | Score         |
-| ----------------------------------------------------| ------------- |
-| predicting-food-delivery-time-catboost_0.84174      | 0.99053857    |
-| predicting-food-delivery-time-catboost_0.84066      | 0.99017467    |
-| predicting-food-delivery-time-catboost_0.84030      | 0.98944687    |
-| predicting-food-delivery-time-catboost_0.83994      | 0.99163028    |
-| predicting-food-delivery-time-catboost_0.83958      | 0.99163028    |
-| final-ensemble_0.8428262                            | 0.84282620    |
+| Solutions                                           | Score       |
+| ----------------------------------------------------| ------------|
+| predicting-food-delivery-time-catboost_0.84174      | 0.84174     |
+| predicting-food-delivery-time-catboost_0.84066      | 0.84066     |
+| predicting-food-delivery-time-catboost_0.84030      | 0.84030     |
+| predicting-food-delivery-time-catboost_0.83994      | 0.83994     |
+| predicting-food-delivery-time-catboost_0.83958      | 0.83958     |
+| final-ensemble_0.8428262                            | 0.84282620  |
